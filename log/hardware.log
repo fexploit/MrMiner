@@ -1,0 +1,15 @@
+[0;36mSystem:   [0;37m [0;36mHost:[0;37m mrminer [0;36mKernel:[0;37m 4.11.0-kfd-compute-rocm-rel-1.6-148 x86_64 [0;36mbits:[0;37m 64 [0;36mConsole:[0;37m tty 1[0;37m
+[0;36m          [0;37m [0;36mDistro:[0;37m Ubuntu 16.04.3 LTS[0;37m
+[0;36mMachine:  [0;37m [0;36mDevice:[0;37m desktop [0;36mMobo:[0;37m ASUSTeK [0;36mmodel:[0;37m PRIME A320M-K [0;36mv:[0;37m Rev X.0x [0;36mserial:[0;37m 170398734803951[0;37m
+[0;36m          [0;37m [0;36mUEFI [Legacy]:[0;37m American Megatrends [0;36mv:[0;37m 0402 [0;36mdate:[0;37m 03/30/2017[0;37m
+[0;36mCPU:      [0;37m [0;36mQuad core[0;37m AMD Ryzen 5 1400 (-HT-MCP-) [0;36mspeed/max:[0;37m 1550/3200 MHz[0;37m
+[0;36mGraphics: [0;37m [0;36mCard-1:[0;37m Advanced Micro Devices [AMD/ATI] Device 67df[0;37m
+[0;36m          [0;37m [0;36mCard-2:[0;37m Advanced Micro Devices [AMD/ATI] Device 67df[0;37m
+[0;36m          [0;37m [0;36mCard-3:[0;37m Advanced Micro Devices [AMD/ATI] Device 67df[0;37m
+[0;36m          [0;37m [0;36mDisplay Server:[0;37m N/A [0;36mdrivers:[0;37m amdgpu,amdgpu,amdgpu[0;37m
+[0;36m          [0;37m [0;36mtty size:[0;37m 178x40 [0;36mAdvanced Data:[0;37m N/A for root out of X[0;37m
+[0;36mNetwork:  [0;37m [0;36mCard:[0;37m Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller [0;36mdriver:[0;37m r8169[0;37m
+[0;36mDrives:   [0;37m [0;36mHDD Total Size:[0;37m 15.5GB (21.8% used)[0;37m
+[0;36mInfo:     [0;37m [0;36mProcesses:[0;37m 248 [0;36mUptime:[0;37m 51 min [0;36mMemory:[0;37m 1071.0/3945.5MB [0;36mInit:[0;37m systemd [0;36mrunlevel:[0;37m 5[0;37m
+[0;36m          [0;37m [0;36mClient:[0;37m Shell (bash) [0;36minxi:[0;37m 2.3.40[0;37m [0;37m
+[0m
