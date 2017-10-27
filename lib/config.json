@@ -1,0 +1,1 @@
+{"status":"ok","miner":"claymore","path":"\/root\/miner\/claymore\/ethdcrminer64","config":"-epool eu1.ethermine.org:4444 -ewal WALLET.WORKER -epsw x -allpools 1 -wd 1 -r 1 -etha 2","core":"1300","memory":"2120","power":"6","volt":"1","temp":"75","fan":"30","configname":"Ethpool_Polo","timestamp":"2017-10-27 15:25:28"}
